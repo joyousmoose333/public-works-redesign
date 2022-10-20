@@ -1,0 +1,137 @@
+/* source-sans-pro-regular - latin */
+/* @font-face {
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), */
+         /* url('../source-sans-pro-v21-latin-regular.woff2') format('woff2'), Chrome 26+, Opera 23+, Firefox 39+ */
+         /* url('../source-sans-pro-v21-latin-regular.woff') format('woff'); Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+ /* }  */
+
+ @import url("http://fonts.googleapis.com/css?family=Oswald:400,300,700");
+
+
+/* .container-fluid {
+    /* margin: 0,0,0,0; */
+    /* font-family: 'Poppins', 'sans-serif'; */
+    /* font-family: "Source Sans Pro"; */
+    /* padding:1% !important; */
+    /* padding: 2% !important;
+    font-family: 'Oswald', sans-serif !important;
+    padding-top: 2%; 
+    padding-bottom: 2%; */
+/* } */ 
+
+.custom-header {
+    font-family: 'Oswald', sans-serif !important;
+    font-stretch: expanded;
+    font-size: xx-large;
+    /* font-weight: 800 !important; */
+    background-color: #fefbe9;
+    color: #183a1d !important;
+    align-items: center;
+    padding-top: 1%;
+    padding-bottom: 1%;
+} 
+
+.contact-info {
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #fefbe9;
+    color: #183a1d;
+}
+
+.custom-info-urgent {
+    background-color: #f0a04b;
+    color: #183a1d;
+    padding-top: 2%;
+    padding-bottom: 2%;    
+    font-size: large;
+}
+
+.info-headers {
+    background-color: #e1eedd;
+    color: #183a1d;
+    text-decoration: none !important;
+    text-decoration-color: white !important; 
+}
+
+.custom-link {
+    color: #183a1d;
+}
+
+.custom-link:hover {
+    color: #183a1d;
+}
+
+.custom-info {
+    font-size: large;
+    color: #183a1d;
+    /* text-decoration: underline; */
+    padding-top: 2%;
+    padding-bottom: 2%;
+    background-color: #fefbe9;
+}
+
+.list-unstyled {
+    text-decoration: underline;
+}
+
+.employee-search {
+    background-color: #e1eedd;
+    color:#183a1d;
+    padding-top: 2%;
+    padding-bottom: 3%;
+}
+
+.btn-secondary {
+    background-color: #183a1d !important;
+    color: #e1eedd;
+}
+
+.my-footer {
+    background-color: #183a1d;
+    color: #e1eedd;
+    /* justify-content: space-around; */
+    /* justify-content: space-between; */
+    text-align: center;
+    padding: 1%;
+}
+
+.navbar-collapse {
+    justify-content: space-between;
+}
+
+.navbar-nav a {
+    color: #183a1d !important;
+    font-weight: 525;
+}
+
+/* .spaced-out {
+    padding: 1%;
+} */
+/* .right-nav {
+    justify-content: space-around;
+} */
+
+/* .row {
+    margin: 0 !important;
+    padding-right:0 !important;
+    padding-left:0 !important;
+    margin-right:auto;
+    margin-left:auto
+} */
+
+
+/* i {
+    margin-right: 2%;
+  } */
+
+/* .row.no-pad {
+    margin-right:0;
+    margin-left:0;
+  }
+.row.no-pad > [class*='col-'] {
+    padding-right:0;
+    padding-left:0;
+  } */
